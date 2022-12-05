@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/map_1"
+        android:title="Mapbox Streets"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_2"
+        android:title="Outdoors"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_3"
+        android:title="Light"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_4"
+        android:title="Dark"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_5"
+        android:title="Satellite"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_6"
+        android:title="Satellite Streets"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_7"
+        android:title="Traffic Day"
+        android:orderInCategory="100" />
+    <item android:id="@+id/map_8"
+        android:title="Traffic Night"
+        android:orderInCategory="100" />
+</menu>
